@@ -28,7 +28,7 @@ function filter_nav_menu_link_attributes($atts, $item, $args){
 //Карта
 function my_acf_google_map_api( $api ){
 	
-	$api['key'] = 'AIzaSyD_7ROfcZOtOnCKqvhphmdndHQYVY2QN2Y'; // Ваш ключ Google API
+	 // Ваш ключ Google API
 	
 	return $api;
 	
